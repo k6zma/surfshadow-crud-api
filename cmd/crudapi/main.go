@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	return
+	// TODO: add base logic for the CRUD API
 }
